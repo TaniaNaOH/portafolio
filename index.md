@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## SOBRE MI 
+
+## PORTAFOLIO
+
+## CONTACTO
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/TaniaNaOH/portafolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
